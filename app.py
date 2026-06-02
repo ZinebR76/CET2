@@ -59,7 +59,7 @@ def load_excel_from_sharepoint():
 GEO_COORDINATES = {
     'Ile-de-France': [48.8566, 2.3522],
     'IDF': [48.8566, 2.3522],
-    'Provence-Alpes-Côte d'Azur': [43.9352, 6.6246],
+    'Provence-Alpes-Côte d\'Azur': [43.9352, 6.6246],
     'PACA': [43.9352, 6.6246],
     'Auvergne-Rhône-Alpes': [45.7772, 4.6305],
     'Rhône-Alpes': [45.7772, 4.6305],
